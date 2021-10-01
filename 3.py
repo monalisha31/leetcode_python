@@ -1,5 +1,5 @@
 #Time Complexity = O(N)
-#Method = Sliding Window Method
+#Method = Sliding Window Method.
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         temp=set()
